@@ -1,0 +1,11 @@
+insert node
+<baile id="8">
+<nombre>Volteretas hacia atras</nombre>
+<precio cuota="mensual" moneda="euros">23</precio>
+<plazas>29</plazas>
+<comienzo>01/01/2012</comienzo>
+<fin>31/07/2012</fin>
+<profesor>Paco Sanz</profesor>
+<sala>8</sala>
+</baile>
+after doc("DB_BailesDeSalon.xml")//Bailes/baile[7]

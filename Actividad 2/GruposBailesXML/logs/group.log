@@ -1,0 +1,23 @@
+09:26:53.730  INFO  [LibraryManager] ---- group creation in C:\Users\1DAW_2223_04\Desktop\1 DAW Mañana\Lenguaje de Marcas y S.G.I\UD6\ActividadesUD6\Actividad 2\GruposBailesXML
+09:26:53.730  INFO  [LibraryManager]  100
+10:31:01.424  INFO  [LibraryManager] shutdown begins
+10:31:01.430  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+10:31:01.430  INFO  [LibraryManager] shutdown complete.
+10:37:20.311  INFO  [LibraryManager] ---- starting up ----
+10:37:20.311  INFO  [LibraryManager]  100
+10:37:20.405  INFO  [LibraryManager] Library group ready
+11:01:52.617  INFO  [LibraryManager] shutdown begins
+11:01:52.622  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+11:01:52.622  INFO  [LibraryManager] shutdown complete.
+12:10:34.118  INFO  [LibraryManager] ---- starting up ----
+12:10:34.122  INFO  [LibraryManager]  100
+12:10:34.239  INFO  [LibraryManager] Library group ready
+12:58:03.210  INFO  [LibraryManager] shutdown begins
+12:58:03.213  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+12:58:03.214  INFO  [LibraryManager] shutdown complete.
+13:03:40.053  INFO  [LibraryManager] ---- starting up ----
+13:03:40.054  INFO  [LibraryManager]  100
+13:03:40.150  INFO  [LibraryManager] Library group ready
+13:24:10.869  INFO  [LibraryManager] shutdown begins
+13:24:10.874  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+13:24:10.874  INFO  [LibraryManager] shutdown complete.

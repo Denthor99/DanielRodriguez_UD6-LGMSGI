@@ -1,0 +1,4 @@
+for $libro in doc("BD_Libros.xml")//Libros/libro
+let $n:=$libro
+where $libro/NumPaginas < 500 and $libro/Edicion = "1"
+return $n

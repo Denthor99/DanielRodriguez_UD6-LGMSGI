@@ -9,3 +9,9 @@
 15:13:42.278  INFO  [LibraryManager] shutdown begins
 15:13:42.285  INFO  [LibraryManager]  closed library BD_Libros
 15:13:42.285  INFO  [LibraryManager] shutdown complete.
+15:08:55.534  INFO  [LibraryManager] ---- starting up ----
+15:08:55.534  INFO  [LibraryManager]  100
+15:08:55.593  INFO  [LibraryManager] Library group ready
+20:38:06.320  INFO  [LibraryManager] shutdown begins
+20:38:06.320  INFO  [LibraryManager]  closed library BD_Libros
+20:38:06.320  INFO  [LibraryManager] shutdown complete.

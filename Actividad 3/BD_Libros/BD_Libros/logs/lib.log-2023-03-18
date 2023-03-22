@@ -1,0 +1,28 @@
+12:43:03.729  INFO  [lib BD_Libros] Qizx 4.4p1 creating new XML Library in C:\Users\usuario\Desktop\1 DAW\Lenguaje de marcas\UD6\Actividad 3\BD_Libros\BD_Libros
+12:43:03.730  INFO  [lib BD_Libros] create storage in C:\Users\usuario\Desktop\1 DAW\Lenguaje de marcas\UD6\Actividad 3\BD_Libros\BD_Libros\contents.qdb
+12:43:03.732  INFO  [lib BD_Libros] storage created
+12:43:03.945  INFO  [lib BD_Libros] library creation done
+12:43:24.666  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+12:43:24.677  INFO  [lib BD_Libros] commit 1 on BD_Libros (session 1)
+12:43:24.688  INFO  [lib BD_Libros] commit 1 done
+12:43:24.688  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 ][ 1 2 ]
+12:43:24.688  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 5
+13:17:51.185  INFO  [lib BD_Libros] All sessions closed
+13:17:51.186  INFO  [lib BD_Libros] Sweeper stopped
+13:17:51.187  INFO  [lib BD_Libros] library closed 
+13:22:49.081  INFO  [lib BD_Libros] Library opened by Qizx 4.4p1
+13:22:49.082  INFO  [lib BD_Libros]  location C:\Users\usuario\Desktop\1 DAW\Lenguaje de marcas\UD6\Actividad 3\BD_Libros\BD_Libros
+13:22:49.082  INFO  [lib BD_Libros]  document storage version=5, lastBId=13, BCount=12, maxA=502
+14:02:26.950  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+14:02:26.950  INFO  [lib BD_Libros] commit 2 on BD_Libros (session 1)
+14:02:26.958  INFO  [lib BD_Libros] commit 2 done
+14:02:26.959  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 ][ 1 2 ]
+14:02:26.959  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 8 in ms 0.3721
+14:02:26.959  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 9
+14:02:43.038  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+14:02:43.089  INFO  [lib BD_Libros] commit 3 on BD_Libros (session 1)
+14:02:43.157  INFO  [lib BD_Libros] commit 3 done
+14:02:43.157  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+15:13:42.279  INFO  [lib BD_Libros] All sessions closed
+15:13:42.284  INFO  [lib BD_Libros] Sweeper stopped
+15:13:42.284  INFO  [lib BD_Libros] library closed 

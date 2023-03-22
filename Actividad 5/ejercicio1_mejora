@@ -1,0 +1,18 @@
+insert node
+<libro>
+    <Cod_Libro>12</Cod_Libro>
+    <Titulo>Fahrenheit 451</Titulo>
+    <Editorial>Betis 2</Editorial>
+    <Edicion>Cuaalquieraa</Edicion>
+    <ISBN>9788445006771</ISBN>
+    <NumPaginas>272</NumPaginas>
+    <Autores>
+        <autor>
+            <Cod_Autor>12</Cod_Autor>
+            <Nombre>Pierre</Nombre>
+            <Apellidos>Bradbury</Apellidos>
+            <FechaNacimiento>22/08/1920</FechaNacimiento>
+        </autor>
+    </Autores>
+</libro>
+as last into doc("BD_Libros.xml")//Libros
